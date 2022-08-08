@@ -1,0 +1,113 @@
+.title h1 {
+  margin: 100px 0 0 100px;
+  font-weight: 900;
+  font-size: 70px;
+}
+
+.title button {
+  margin: 100px 0 0 100px;
+  background-color: transparent;
+  border-color: #FFFFFF;
+  width: 180PX;
+  height: 50PX;
+  box-shadow: 0px;
+  cursor: pointer;
+  border-radius: 25px;
+  border: 3px solid #ffffff;
+}
+
+#main {
+  position: relative;
+}
+
+#main .Horizontal-line {
+  position: absolute;
+  border-top: 2px solid #ffffff;
+  right: 50px;
+  top: -120px;
+  width: 67%;
+}
+
+
+.main-right {
+  position: absolute;
+  right: 180px;
+  top: -50px;
+  padding: 20px;
+  background-color: #ffffff1d;
+}
+
+.main-right-img i {
+  background-color: #ffffff;
+  padding: 5px 30px;
+  border-radius: 30px;
+  margin-bottom: 10px;
+}
+
+.main-right-img .puzzle {
+  color: #000000;
+}
+
+.main-right-content p {
+  font-size: 15px;
+}
+
+.v-line {
+  position: absolute;
+  border-left: 1px solid #ffffff;
+  height: 50px;
+  right: 80px;
+  top: 117px;
+}
+
+.v-ball {
+  position: absolute;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  right: 73px;
+  top: 167px;
+}
+
+
+.main-bottom {
+  position: absolute;
+  right: 30%;
+  bottom: -40px;
+  padding: 20px;
+  background-color: #ffffff1d;
+}
+
+.main-bottom-img i {
+  background-color: #ffffff;
+  padding: 5px 30px;
+  border-radius: 30px;
+  margin-bottom: 10px;
+}
+
+.main-bottom-img .bulb {
+  color: #000000;
+}
+
+.main-bottom-content {
+  font-size: 15px;
+}
+
+.h-line {
+  position: absolute;
+  border-top: 1px solid #ffffff;
+  right: -50px;
+  top: 60px;
+  width: 50px;
+}
+
+.h-ball {
+  position: absolute;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  right: -65px;
+  top: 53px;
+}
