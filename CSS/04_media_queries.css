@@ -12,6 +12,51 @@
   #main .Horizontal-line {
     display: none;
   }
+  .title h1 {
+    margin: 100px 0 0 60px;
+    font-weight: 900;
+    font-size: 30px;
+  }
+  .main-right {
+    position: absolute;
+    right: 60px;
+    top: -135px;
+    padding: 20px;
+    background-color: #ffffff1d;
+  }
+  .v-line {
+    display: none;
+  }
+  .v-ball {
+    display: none;
+  }
+  .main-bottom {
+    position: absolute;
+    right: 20%;
+    bottom: -160px;
+    padding: 20px;
+    background-color: #ffffff1d;
+  }
+  .h-line {
+    display: none;
+  } 
+  .h-ball {
+    display: none;
+  }
+  .title button {
+    margin: 30px 0 0 60px;
+    background-color: transparent;
+    border-color: #FFFFFF;
+    width: 180PX;
+    height: 50PX;
+    cursor: pointer;
+    border-radius: 25px;
+    border: 3px solid #ffffff;
+  }
+  #main {
+    /* background-color: violet; */
+    margin-top: 140px;
+  }
 }
 
 
@@ -29,6 +74,47 @@
   #main .Horizontal-line {
     display: none;
   }
+  .title h1 {
+    margin: 100px 0 0 60px;
+    font-weight: 900;
+    font-size: 40px;
+  }
+  .main-right {
+    position: absolute;
+    right: 60px;
+    top: -135px;
+    padding: 20px;
+    background-color: #ffffff1d;
+  }
+  .v-line {
+    display: none;
+  }
+  .v-ball {
+    display: none;
+  }
+  .main-bottom {
+    position: absolute;
+    right: 20%;
+    bottom: -160px;
+    padding: 20px;
+    background-color: #ffffff1d;
+  }
+  .h-line {
+    display: none;
+  } 
+  .h-ball {
+    display: none;
+  }
+  .title button {
+    margin: 30px 0 0 60px;
+    background-color: transparent;
+    border-color: #FFFFFF;
+    width: 180PX;
+    height: 50PX;
+    cursor: pointer;
+    border-radius: 25px;
+    border: 3px solid #ffffff;
+  }
 }
 
 
@@ -43,6 +129,18 @@
   #navbar i {
     display: none;
   }
+  .title h1 {
+    margin: 100px 0 0 60px;
+    font-weight: 900;
+    font-size: 45px;
+  }
+  .main-right {
+    position: absolute;
+    right: 60px;
+    top: -50px;
+    padding: 20px;
+    background-color: #ffffff1d;
+  }
 }
 
 
@@ -53,6 +151,11 @@
   }
   #navbar i {
     display: none;
+  }
+  .title h1 {
+    margin: 100px 0 0 60px;
+    font-weight: 900;
+    font-size: 60px;
   }
 }
 
