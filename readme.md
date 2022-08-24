@@ -5,7 +5,7 @@
 - This webpage was constructed by using only HTML and CSS as a markup and styling language respectively.
 - Webpage consists of many sections such as navigation section, main section.
 - This webpage is currently hosted on netlify.
-- This is a all screen responsive webpage.
+- This is an all screen responsive webpage.
 
 ## Built with
 
